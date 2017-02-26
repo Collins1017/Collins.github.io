@@ -5,7 +5,9 @@ body {
 img{
 	max-width: 50%;
 	border-radius: 8px;
-}	
+}
+
+
 
 #container {
 	width: 100%;
@@ -225,11 +227,4 @@ main p {
 	margin-bottom: 6em 
 }
 
-/* Style speifies a gradient for the body element */
-/* body {
-	background: -moz-linear-gradient(#FFFFFF, #FFFF99); /* Firefox */
-	background: -o-linear-gradient(#FFFFFF, #FFFF99); /* Opera */
-	background: -webkit-linear-gradient(#FFFFFF, #FFFF99); /* Chrome, Safari*/
-	background: linear-gradient(#FFFFFF, #FFFF99);
-	background-attachment: fixed;
-}*/
+
