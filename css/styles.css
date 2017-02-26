@@ -34,7 +34,7 @@ li.dropdown {
 
 .dropdown-content a {
     color: black;
-    padding: 12px 16px;
+    padding: 0.4em;
     text-decoration: none;
     display: block;
     text-align: left;
