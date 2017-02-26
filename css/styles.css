@@ -244,6 +244,7 @@ nav li a: visited {
 nav li a:hover {
 	color: wheat;
 	font-style: oblique;
+	background-color: black;
 }
 
 /* Style specifies border, box shadow, and margins for the main element */
