@@ -9,14 +9,14 @@ img{
 
 li a, .dropbtn {
     display: inline-block;
-    color: black;
+    color: white;
     text-align: center;
-    padding: 0;
+    padding: 14px 16px;
     text-decoration: none;
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-    background-color: firebrick;
+    background-color: red;
 }
 
 li.dropdown {
@@ -34,13 +34,13 @@ li.dropdown {
 
 .dropdown-content a {
     color: black;
-    padding: 0.4em;
+    padding: 12px 16px;
     text-decoration: none;
     display: block;
     text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #ffff99}
+.dropdown-content a:hover {background-color: #f1f1f1}
 
 .dropdown:hover .dropdown-content {
     display: block;
