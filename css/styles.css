@@ -83,7 +83,7 @@ nav li{
 }
 
 nav li a{
-	color: #FFFFFF;
+	color: #FFFF99;
 	text-decoration: none;
 }
 
@@ -244,7 +244,6 @@ nav li a: visited {
 nav li a:hover {
 	color: wheat;
 	font-style: oblique;
-	background-color: black;
 }
 
 /* Style specifies border, box shadow, and margins for the main element */
