@@ -247,7 +247,7 @@ nav li a: visited {
 
 nav li a:hover {
 	color: wheat;
-	font-style:
+	font-style: none;
 }
 
 /* Style specifies border, box shadow, and margins for the main element */
